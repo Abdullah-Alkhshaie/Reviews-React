@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reviews-React/static/css/main.eecf70fb.css",
+    "main.js": "/Reviews-React/static/js/main.c2a89a9a.js",
+    "index.html": "/Reviews-React/index.html",
+    "main.eecf70fb.css.map": "/Reviews-React/static/css/main.eecf70fb.css.map",
+    "main.c2a89a9a.js.map": "/Reviews-React/static/js/main.c2a89a9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eecf70fb.css",
+    "static/js/main.c2a89a9a.js"
+  ]
+}
